@@ -2,4 +2,4 @@
 
 A simple calculator written using React.
 
-![Screenshot](calculator.png)
+![Screenshot](chrome_2019-10-10_15-39-09.png)
